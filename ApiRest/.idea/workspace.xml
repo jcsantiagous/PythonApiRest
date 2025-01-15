@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44d8ad8b-7489-4591-b688-3c7392fab42d" name="Changes" comment="version inicial api">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="44d8ad8b-7489-4591-b688-3c7392fab42d" name="Changes" comment="version inicial api" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,17 +18,20 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {}
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/jcsantiagous/PythonApiRest.git",
-    "accountId": "b0e4f19d-1e32-4c5b-97ac-58ebff3d601c"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jcsantiagous/PythonApiRest.git&quot;,
+    &quot;accountId&quot;: &quot;b0e4f19d-1e32-4c5b-97ac-58ebff3d601c&quot;
   }
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -46,7 +47,9 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "devel"
+    "git-widget-placeholder": "devel",
+    "last_opened_file_path": "C:/Users/Juan Santiago/Documents/GitHub/PythonApiRest/ApiRest",
+    "run.code.analysis.last.selected.profile": "aDefault"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -92,7 +95,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/devel" />
+                        <option value="devel" />
                       </list>
                     </value>
                   </entry>
